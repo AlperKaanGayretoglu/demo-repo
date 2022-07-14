@@ -4,3 +4,7 @@ This is a demo repo for learning the ways of git! It currently has a Java Projec
 
 ## Subheader
 This change was made in the pc.
+
+## Local Development
+
+1. Open index.html in your browser.

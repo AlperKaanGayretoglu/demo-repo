@@ -8,3 +8,4 @@ This change was made in the pc.
 ## Local Development
 
 1. Open index.html in your browser.
+2. I made this change.
